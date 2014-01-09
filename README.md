@@ -8,6 +8,7 @@ ToDo:
 - Add proper description.
 - Add examples.
 - Add minified version.
+- Add tests.
 
 
 # Credits
