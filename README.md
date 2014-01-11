@@ -1,6 +1,18 @@
 # angular-class
 An Angular service for creating classes with inheritance. Exposes the `Class` service.
 
+## API
+`Class`: the Class service.
+`Class.extend(classDefenition)`: Defines a new Class
+`classDefenition.init`: The contructor method
+`classDefinition.*`: Other class methods
+
+Inside any class method:
+`this`: the instance.
+`this._super`: the current method on the first ancestor which has this method.
+`this.*`: Any class method or property.
+
+
 ## Example usage
 The functionality of the `Class` service is best explained by some examples.
 ``` javascript
