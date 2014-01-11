@@ -3,10 +3,10 @@ An Angular service for creating classes with inheritance. Exposes the `Class` se
 
 ## API
 ### Class
-the Class service.
+The Class service.
 
 #### Class.extend(classDefenition)
-Defines a new Class
+Defines a new Class.
 
 ##### classDefenition.init
 The contructor method
@@ -18,10 +18,10 @@ Other class methods
 ##### this
 The instance.
 
-###### this._super
+##### this._super
 The current method on the first ancestor which has this method.
 
-###### this.*
+##### this.*
 Any class method or property.
 
 ## Example usage
