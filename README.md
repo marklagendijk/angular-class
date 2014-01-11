@@ -96,6 +96,10 @@ myApp.controller('MyController', function(Animal, Hamster){
     //knaagie.canFly() === false
 });
 ```
+## Installation
+1. `bower install angular-class`
+2. Include reference to `angular-class.min.js`
+3. Add the `Class` module as dependency.
 
 ## Running the tests
 1. Get the source code.
