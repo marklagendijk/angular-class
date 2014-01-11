@@ -1,7 +1,7 @@
 /* Simple JavaScript Inheritance
- * By John Resig http://ejohn.org/
- * Wrapped in an Angular service, and published on Bower by Mark Lagendijk
- * MIT Licensed.
+ * @author John Resig, original author, http://ejohn.org/
+ * @author Mark Lagendijk, wrapped in an Angular service, and published on Bower
+ * @license MIT
  */
 // Inspired by base2 and Prototype
 angular.module('Class', [])

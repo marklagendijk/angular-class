@@ -22,8 +22,17 @@
   "ignore": [
     "**/.*",
     "node_modules",
+    "package.json",
+    "gulpfile.js",
     "bower_components",
     "test",
-    "tests"
-  ]
+    "tests",
+    "config"
+  ],
+  "dependencies": {
+    "angular": "~1.2.8"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.8"
+  }
 }
