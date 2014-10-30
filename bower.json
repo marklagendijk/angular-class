@@ -1,7 +1,7 @@
 {
   "name": "angular-class",
   "main": "angular-class.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/marklagendijk/angular-class",
   "authors": [
     "Mark Lagendijk <mark@lagendijk.info>"
@@ -30,9 +30,9 @@
     "config"
   ],
   "dependencies": {
-    "angular": "~1.2.8"
+    "angular": ">=1.2.0"
   },
   "devDependencies": {
-    "angular-mocks": "~1.2.8"
+    "angular-mocks": ">=1.2.8"
   }
 }
