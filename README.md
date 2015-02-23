@@ -97,7 +97,7 @@ myApp.controller('MyController', function(Animal, Hamster){
 });
 ```
 ## Installation
-1. `bower install angular-class --save`
+1. `bower install angular-class --save` or `npm install angular-class --save`
 2. Include reference to `angular-class.min.js`
 3. Add the `Class` module as dependency.
 

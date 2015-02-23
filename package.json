@@ -1,4 +1,8 @@
 {
+  "name": "angular-class",
+  "version": "1.0.3",
+  "description": "An Angular service for creating classes with inheritance. Exposes the `Class` service.",
+  "main": "angular-class.js",
   "directories": {
     "test": "test"
   },
@@ -19,5 +23,26 @@
   "scripts": {
     "test": "gulp test",
     "minify": "gulp minify"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://marklagendijk@github.com/marklagendijk/angular-class.git"
+  },
+  "keywords": [
+    "angular",
+    "angular-service",
+    "angular-model",
+    "class",
+    "OOP",
+    "Object",
+    "Oriented",
+    "classical",
+    "model"
+  ],
+  "author": "Mark Lagendijk <mark@lagendijk.info>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marklagendijk/angular-class/issues"
+  },
+  "homepage": "https://github.com/marklagendijk/angular-class"
 }

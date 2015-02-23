@@ -1,7 +1,7 @@
 {
   "name": "angular-class",
   "main": "angular-class.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/marklagendijk/angular-class",
   "authors": [
     "Mark Lagendijk <mark@lagendijk.info>"
